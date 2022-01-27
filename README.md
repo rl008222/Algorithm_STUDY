@@ -5,4 +5,4 @@ Baekjoon Online Judge
 ```
 <hr/>
 <h2>SW Expert Academy</h2>  
-[GOOGLE] (https://google.com)
+[GOOGLE](https://google.com)  
