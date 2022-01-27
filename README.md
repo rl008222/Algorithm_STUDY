@@ -9,6 +9,4 @@
 <h2>SW Expert Academy</h2>
 <hr/>
 <h2>JUNGOL  </h2>
-```
 1. 1071 - [약수와 배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=99)
-```
