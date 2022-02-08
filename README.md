@@ -11,6 +11,7 @@
 5. 1218 - [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)</br>
 6. 2001 - [파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq)</br>
 7. 2805 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)</br>
-8. 5215 - [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
+8. 5215 - [햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)</br>
+9. 1225 - [암호 생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD)
 <h2>JUNGOL</h2>
 1. 1071 - [약수와 배수](http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=351&sca=99)
