@@ -1,6 +1,6 @@
 # Algorithm
 <h2>Baekjoon Online Judge</h2>  
-[https://www.acmicpc.net/]</br>
+<h3>[https://www.acmicpc.net/]</h3>
 1. 1181 - [단어 정렬]</br>
 2. 2503 - [숫자 야구]</br>
 3. 17478 - [재귀함수가 뭔가요?]</br>
@@ -32,7 +32,7 @@
 29. 2635 - [수 이어가기]</br>
 30. 2669 - [직사각형 네개의 합집합의 면적 구하기]
 <h2>SW Expert Academy</h2>
-[https://swexpertacademy.com/main/main.do]</br>
+<h3>https://swexpertacademy.com/main/main.do</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
 2. 1873 - [상호의 배틀필드]</br>
 3. 1954 - [달팽이 숫자]</br>
@@ -50,5 +50,5 @@
 15. 5432 - [쇠막대기 자르기]</br>
 16. 9229 - [한빈이와 Spot Mart]</br>
 <h2>JUNGOL</h2>
-[http://www.jungol.co.kr/]</br>
+<h3>http://www.jungol.co.kr/</h3>
 1. 1071 - [약수와 배수]
