@@ -46,7 +46,9 @@
 43. 1759 - [암호만들기]</br>
 44. 1260 - [DFS와 BFS]</br>
 45. 17413 - [단어 뒤집기 2]</br>
-46. 11399 - [ATM]
+46. 11399 - [ATM]</br>
+47. 2567 - [색종이2]</br>
+48. 9655 - [돌게임]</br>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
