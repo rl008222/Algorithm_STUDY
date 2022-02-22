@@ -22,9 +22,8 @@ public class B_11399_ATM {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		Arrays.sort(arr);
-		arr[1]=arr[0]+arr[1];
-		int sum=arr[1];
-		for(int i=2;i<N;i++) {
+		int sum=arr[0];
+		for(int i=1;i<N;i++) {
 			arr[i]=arr[i]+arr[i-1];
 			sum+=arr[i];
 		}
