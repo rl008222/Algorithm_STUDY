@@ -10,6 +10,9 @@
 7. 기능개발</br>
 8. 카펫</br>
 9. K번째 수</br>  
+10. 기능개발</br>
+11. 프린터</br>
+12. 124나라의 숫자</br>
 <h2>Baekjoon Online Judge</h2>  
 <h3>[https://www.acmicpc.net/]</h3>
 1. 1181 - [단어 정렬]</br>
@@ -68,6 +71,9 @@
 54. 7576- [토마토]<br/>
 55. 1789 - [수들의 합]<br/>
 56. 2217 - [로프]<br/>
+57. 2108 - [통계학]<br/>
+58. 18870 - [좌표압축]<br/>
+59. 9184 - [신나는 함수 실행]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
