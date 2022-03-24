@@ -13,6 +13,10 @@
 10. 기능개발</br>
 11. 프린터</br>
 12. 124나라의 숫자</br>
+13. 네트워크</br>
+14. 단어변환</br>
+15. 타겜넘버</br>
+16. H_Index</br>
 <h2>Baekjoon Online Judge</h2>  
 <h3>[https://www.acmicpc.net/]</h3>
 1. 1181 - [단어 정렬]</br>
@@ -74,6 +78,7 @@
 57. 2108 - [통계학]<br/>
 58. 18870 - [좌표압축]<br/>
 59. 9184 - [신나는 함수 실행]<br/>
+60. 1904 - [01타일]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
