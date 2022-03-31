@@ -81,6 +81,8 @@
 58. 18870 - [좌표압축]<br/>
 59. 9184 - [신나는 함수 실행]<br/>
 60. 1904 - [01타일]<br/>
+61. 1149 - [RGB거리]<br/>
+62. 1463 - [1로 만들기]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
