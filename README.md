@@ -19,7 +19,7 @@
 16. H_Index</br>
 17. 멀쩡한 사각형</br>
 18. 배달</br>
-
+19. 점프와 순간이동<br/>
 
 <h2>Baekjoon Online Judge</h2>  
 <h3>[https://www.acmicpc.net/]</h3>
@@ -87,6 +87,8 @@
 62. 1463 - [1로 만들기]<br/>
 63. 1194 - [달이 차오른다 가자]<br/>
 64. 4485 - [녹색옷 입은 애가 젤다지?]<br/>
+65. 1263 - [사람 네트워크2]<br/>
+66. 3307 - [최장증가 부분순열]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
