@@ -92,6 +92,7 @@
 66. 3307 - [최장증가 부분순열]<br/>
 67. 17471 - [게리맨더링]<br/>
 68. 2239 - [스도쿠]<br/>
+69. 14502 - [연구소]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
