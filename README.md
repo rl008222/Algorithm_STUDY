@@ -22,6 +22,7 @@
 19. 점프와 순간이동<br/>
 20. 방문길이<br/>
 21. 오픈채팅방<br/>
+22. 다리를 지나는 트럭<br/>
 
 <h2>Baekjoon Online Judge</h2>  
 <h3>[https://www.acmicpc.net/]</h3>
@@ -95,6 +96,7 @@
 68. 2239 - [스도쿠]<br/>
 69. 14502 - [연구소]<br/>
 70. 1708 - [블록껍질]<br/>
+71. 9205 - [맥주 마시면서 걸어가기]<br/>
 <h2>SW Expert Academy</h2>
 <h3>[https://swexpertacademy.com/main/main.do]</h3>
 1. 1289 - [원재의 메모리 복구하기]</br>
