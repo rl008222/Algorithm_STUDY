@@ -24,6 +24,7 @@
 21. 오픈채팅방<br/>
 22. 다리를 지나는 트럭<br/>
 23. 주식 가격<br/>
+24. 프린터<br/>
 
 <h2>Baekjoon Online Judge</h2>  
 <h3>[https://www.acmicpc.net/]</h3>
