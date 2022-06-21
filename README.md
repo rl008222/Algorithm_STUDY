@@ -31,6 +31,7 @@
 26. 큰 수<br/>
 27. 게임맵 최단거리<br/>
 28. 영어 끝말잇기<br/>
+29. 땅따먹기<br/>
 
 
 <h2>Baekjoon Online Judge</h2>  
