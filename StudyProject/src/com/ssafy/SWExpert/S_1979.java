@@ -1,4 +1,4 @@
-package com.ssafy.SWExpert;
+package a0213;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -19,7 +19,6 @@ public class S_1979 {
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int N = Integer.parseInt(st.nextToken());
 			int K = Integer.parseInt(st.nextToken());
-
 			int arr[][] = new int[N][N];
 			for(int i=0;i<N;i++) {
 				st = new StringTokenizer(br.readLine());
@@ -27,7 +26,6 @@ public class S_1979 {
 					arr[i][j] = Integer.parseInt(st.nextToken());
 				}
 			}
-			
 			int garo[] = new int[N+1];
 			int sero[] = new int[N+1];
 			for(int i=0;i<N;i++) {
@@ -51,9 +49,9 @@ public class S_1979 {
 						sero[cnt2]++; 
 						cnt2=0;
 					}
+					
 				}
 			}
-			
 			bw.write("#" + tc + " " + (garo[K]+sero[K]) + "\n");
 			
 		}

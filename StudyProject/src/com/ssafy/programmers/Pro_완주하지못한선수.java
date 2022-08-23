@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0310;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

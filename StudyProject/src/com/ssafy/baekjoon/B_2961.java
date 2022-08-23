@@ -1,4 +1,4 @@
-package com.ssafy.baekjoon;
+package a0214;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -29,15 +29,15 @@ public class B_2961 {
 		bw.close();
 		br.close();
 	}
-	static void recursive(int idx, int cnt, int a, int b) {
+	static void recursive(int i, int cnt, int a, int b) {
 		if(cnt>=1) {
 			min=Math.min(Math.abs(a-b), min);
 		}
-		if(idx==N) {
+		if(i==N) {
 			return;
 		}
-		recursive(idx+1, cnt+1, a*arr[idx][0], b + arr[idx][1]);
-		recursive(idx+1, cnt, a, b);
+		recursive(i+1, cnt+1, a*arr[i][0], b + arr[i][1]);
+		recursive(i+1, cnt, a, b);
 	}
 
 }

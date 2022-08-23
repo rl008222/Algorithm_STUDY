@@ -1,12 +1,14 @@
-package com.ssafy.programmers;
+package a0323;
 
 import java.io.IOException;
 
 public class P_124나라의숫자 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
+
 		int n=10;
 		System.out.println(solution(n));
+
 	}
 	public static String solution(int n) {
         String answer = "";

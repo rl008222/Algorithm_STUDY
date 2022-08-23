@@ -1,4 +1,4 @@
-package com.ssafy.SWExpert;
+package a0223;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -25,6 +25,7 @@ public class S_1220_Magnetic {
 					arr[i][j]=Integer.parseInt(st.nextToken());
 			}
 			for(int i=0;i<len;i++) {
+				boolean check=false;
 				for(int j=0;j<len;j++) {
 					if(arr[j][i]==1) {
 						for(int k=j+1;k<len;k++) {
@@ -35,6 +36,7 @@ public class S_1220_Magnetic {
 							}
 						}
 					}
+					if(check) break;
 				}
 			}
 			bw.write("#" + tc + " " + ans);

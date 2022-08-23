@@ -1,4 +1,4 @@
-package com.ssafy.baekjoon;
+package a0216;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -24,19 +24,17 @@ public class B_1992 {
 		}
 		
 		recursive(N, 0, 0, N, N);
-		
 		bw.write(s);
+		
 		bw.flush();
 		bw.close();
 		br.close();
 
 	}
 	static void recursive(int n, int x, int y, int p, int q) {
-		
 		n/=2;
 		boolean check= false;
 		int num= arr[x][y];
-		
 		for(int i=x;i<p;i++) {
 			for(int j=y;j<q;j++) {
 				check = num!=arr[i][j]?true:false;
@@ -44,7 +42,6 @@ public class B_1992 {
 			}
 			if(check) break;
 		}
-		
 		if(check) s+="(";
 		else {
 			s = arr[x][y]=='0'?s+"0":s+"1";

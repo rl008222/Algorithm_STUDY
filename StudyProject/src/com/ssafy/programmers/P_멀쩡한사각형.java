@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0325;
 
 public class P_멀쩡한사각형 {
 	public static void main(String[] args) {

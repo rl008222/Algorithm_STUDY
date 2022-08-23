@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0328;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,8 +14,7 @@ public class P_배달 {
 
 	private static ArrayList<Edge>[] edgeList; // 도시 인접리스트 
 	private static int[] distance; // 1번 도시와 다른 도시간의 최단 경로 
-	
-	private static void dijkstra() {
+	private static void dijkstra() { 
 		PriorityQueue<Edge> queue = new PriorityQueue<>(); 
 		queue.add(new Edge(1, 0)); 
 		while (!queue.isEmpty()) { 
@@ -32,10 +31,10 @@ public class P_배달 {
 				if (distance[vertex2] > weight2) { // 최단경로 세팅
 					distance[vertex2] = weight2;
 					queue.add(new Edge(vertex2, weight2)); 
-				}
+					}
+				} 
 			} 
 		} 
-	} 
 	public static int solution(int N, int[][] road, int K) { // N : 마을의 개수, road : 마을번호와 비용, K : 최대 가능한 비용
 		int answer = 0; //초기화 과정
 		edgeList = new ArrayList[N + 1];
@@ -57,7 +56,7 @@ public class P_배달 {
 			} 
 			} 
 		return answer;
-	} 
+		} 
 	private static class Edge implements Comparable<Edge> { 
 		int vertex; // 
 		int weight; 

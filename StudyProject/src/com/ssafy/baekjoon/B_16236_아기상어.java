@@ -1,4 +1,4 @@
-package com.ssafy.baekjoon;
+package a0223;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

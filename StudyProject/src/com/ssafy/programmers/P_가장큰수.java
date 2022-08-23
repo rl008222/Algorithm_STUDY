@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0504;
 
 import java.util.Arrays;
 import java.util.Comparator;
@@ -10,13 +10,11 @@ public class P_가장큰수 {
 	}
 
 	public static String solution(int[] numbers) {
-		String answer = "";
-		
 		String[] s = new String[numbers.length];
-		
 		for (int i = 0; i < numbers.length; i++) {
 			s[i] = numbers[i] + "";
 		}
+		String answer = "";
 
 		Arrays.sort(s, new Comparator<String>() {
 			public int compare(String o1, String o2) {
@@ -26,11 +24,12 @@ public class P_가장큰수 {
 
 		if (s[0].equals("0"))
 			return "0";
-		
-		for (String a : s) 
-			answer += a;
+		for (String b : s) {
+			answer += b;
+		}
 		return answer;
 	}
+
 }
 
 /*
@@ -38,6 +37,7 @@ public class P_가장큰수 {
  * String solution(int[] a) { String[] s = new String[a.length]; for(int
  * i=0;i<a.length;i++) { s[i]=a[i]+""; } String answer = ""; Arrays.sort(s, new
  * Comparator<String>(){
+ * 
  * @Override public int compare(String o1, String o2) { return
  * ((o2+o1).compareTo(o1+o2)); } }); if(s[0].equals("0")) return "0"; for(String
  * b : s) { answer+=b; } return answer; } }

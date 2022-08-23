@@ -1,4 +1,4 @@
-package com.ssafy.SWExpert;
+package a0223;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -18,12 +18,14 @@ public class S_1206_View {
 			int len = Integer.parseInt(br.readLine());
 			StringTokenizer st = new StringTokenizer(br.readLine());
 			int arr[] = new int[len];
-			for(int i=0;i<len;i++) 
+			for(int i=0;i<len;i++) {
 				arr[i]=Integer.parseInt(st.nextToken());
-			
+			}
 			for(int i=2;i<len-2;i++) {
 				if(arr[i]<2) continue;
-				int temp = Math.max(Math.max(arr[i-2], arr[i-1]), Math.max(arr[i+2], arr[i+1]));
+				int a = Math.max(arr[i-2], arr[i-1]);
+				int b = Math.max(arr[i+2], arr[i+1]);
+				int temp = Math.max(a, b);
 				if(temp>arr[i]) continue;
 				ans+=arr[i]-temp;
 			}

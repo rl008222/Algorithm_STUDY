@@ -11,7 +11,7 @@ public class P_1225 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		for(int tc=0;tc<10;tc++) {
+		for(int tc=0;tc<1;tc++) {
 			int tn=Integer.parseInt(br.readLine());
 			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 			

@@ -1,4 +1,4 @@
-package com.ssafy.baekjoon;
+package a0322;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

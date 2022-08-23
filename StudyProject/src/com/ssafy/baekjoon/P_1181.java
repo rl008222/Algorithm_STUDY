@@ -1,19 +1,20 @@
 package com.ssafy.baekjoon;
 
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Scanner;
 
 public class P_1181 {
 	public static void main(String[] args) throws Exception {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		int N = br.read();
+		//int N = br.read();
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
 
 		String []s = new String[N];
 		for(int i=0;i<N;i++) {
-			s[i] = br.readLine();
+			s[i] = sc.next();
 		}
 		
 		Arrays.sort(s);

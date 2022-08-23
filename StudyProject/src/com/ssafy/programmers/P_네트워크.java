@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0324;
 
 public class P_네트워크 {
 	public static void main(String[] args) {

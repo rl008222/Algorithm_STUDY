@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0324;
 
 public class P_타겟넘버 {
 	public static void main(String[] args) {

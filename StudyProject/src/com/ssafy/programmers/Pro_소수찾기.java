@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0310;
 
 import java.util.HashSet;
 import java.util.Iterator;
@@ -26,6 +26,8 @@ class Pro_소수찾기 {
         	
         	if(!check) answer++;
         }
+        
+        
         return answer;
     }
 	public static void recursive(String s, String numbers) {

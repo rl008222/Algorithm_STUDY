@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0620;
 
 public class P_땅따먹기 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0530;
 
 public class P_카펫 {
 

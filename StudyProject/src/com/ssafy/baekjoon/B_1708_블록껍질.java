@@ -1,4 +1,4 @@
-package com.ssafy.baekjoon;
+package a0411;
 
 import java.io.BufferedReader;
 import java.io.IOException;

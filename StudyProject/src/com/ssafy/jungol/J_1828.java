@@ -1,4 +1,4 @@
-package com.ssafy.jungol;
+package a0215;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

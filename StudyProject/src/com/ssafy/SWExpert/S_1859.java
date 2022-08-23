@@ -1,4 +1,4 @@
-package com.ssafy.SWExpert;
+package a0213;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -26,7 +26,9 @@ public class S_1859 {
 			long ans=0;
 			for(int i=N-2;i>=0;i--) {
 				if(max<=arr[i]) max=arr[i];
-				else ans+= max-arr[i];
+				else {
+					ans+= max-arr[i];
+				}
 			}
 			bw.write("#" + tc + " " + ans);
 			bw.newLine();

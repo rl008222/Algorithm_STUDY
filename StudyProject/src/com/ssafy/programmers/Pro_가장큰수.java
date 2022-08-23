@@ -1,7 +1,6 @@
-package com.ssafy.programmers;
+package a0311;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
 
 public class Pro_가장큰수 {

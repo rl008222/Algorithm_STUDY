@@ -1,4 +1,4 @@
-package com.ssafy.programmers;
+package a0411;
 
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -44,8 +44,13 @@ public class P_오픈채팅방 {
 		int i=0;
 		answer = new String[q.size()];
 		while(!q.isEmpty()) {
-			if(q.peek().a.equals("Enter")) answer[i]=map.get(q.poll().b)+"님이 들어왔습니다.";
-			else answer[i]=map.get(q.poll().b)+"님이 나갔습니다.";
+			String s="";
+			if(q.peek().a.equals("Enter")) {
+				s="들어왔습니다.";
+			}else {
+				s="나갔습니다.";
+			}
+			answer[i]=map.get(q.poll().b)+"님이 " +s;
 			i++;
 		}
 		return answer;

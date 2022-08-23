@@ -17,7 +17,7 @@ public class P_2491 {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
 		int length=1;
-		int ans=1;
+		int ans=0;
 		for(int i=0;i<N-1;i++) {
 			if(arr[i]<=arr[i+1]) 
 				length++;
